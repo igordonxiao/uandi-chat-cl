@@ -14,7 +14,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 /**
- * @author Gordon Shaw
+ * @author Gordon Xiao
  *
  */
 public class Client extends Thread{  
